@@ -1,0 +1,16 @@
+# Local configuration files - specify the full path from the root
+/src/main/resources/config.properties
+
+# User-generated data files
+*.csv
+
+# Maven build output
+/target/
+
+# IDE files
+/.vscode/
+/.idea/
+*.iml
+
+# Log files
+*.log
