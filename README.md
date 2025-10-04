@@ -78,7 +78,7 @@ SmartSpend/
 This is the easiest way to use the application if you already have Java installed.
 
 1.  **Download the Executable JAR:**
-    * Download `SmartSpend-1.0-SNAPSHOT.jar` from the "Assets" section below.
+    * Download `SmartSpend-1.0-SNAPSHOT.jar` from the "Assets" section.
 2.  **Run the Application:**
     * Open your terminal or command prompt.
     * Navigate to the directory where you downloaded the JAR file.
