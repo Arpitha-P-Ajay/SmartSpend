@@ -16,7 +16,7 @@ SmartSpend is a simple, user-friendly desktop application built with Java, desig
 * **Data Persistence**: All user and transaction data is saved locally in `.csv` files.
 * **Email Reporting**: Generate and receive a complete financial summary directly to your registered email.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language**: Java (JDK 21)
 * **User Interface**: Java Swing
